@@ -44,7 +44,9 @@ Automated testing ensures the correctness and stability of game behavior using *
 
 ## 🚀 How to Run
 
+## 🚀 How to Run
 
+```bash
 # 1. Clone the repository
 git clone https://github.com/oriyaPerel/Viking-Chess_Game.git
 
@@ -56,6 +58,7 @@ javac Main.java
 
 # 4. Run the game
 java Main
+
 
 
 
