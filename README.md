@@ -47,7 +47,7 @@ Automated testing ensures the correctness and stability of game behavior using *
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/oriyaPerel/Viking-Chess_Game.git
+git clone https://github.com/OriyaPerel/Viking-Chess_Game.git
 
 # 2. Navigate to the project folder
 cd Viking-Chess_Game
