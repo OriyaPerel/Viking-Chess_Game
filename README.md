@@ -42,7 +42,6 @@ Automated testing ensures the correctness and stability of game behavior using *
 
 ---
 
-## 🚀 How to Run
 
 ## 🚀 How to Run
 
