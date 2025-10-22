@@ -44,7 +44,8 @@ Automated testing ensures the correctness and stability of game behavior using *
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Viking-Chess_Game.git
-   cd Viking-Chess_Game
+1. Clone the repository:```bash git clone https://github.com/<your-username>/Viking-Chess_Game.git
+2.Navigate to the project folder: cd Viking-Chess_Game
+3.Compile the Java source files :javac Main.java
+4.Run the game : java Main
+
