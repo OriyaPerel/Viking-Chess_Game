@@ -1,5 +1,4 @@
 # 🛡️ Viking Chess Game  
-**Java | Swing GUI | OOP Architecture | JUnit Testing**
 
 An interactive strategy board game inspired by **Viking Chess (Hnefatafl)** — fully implemented in **Java** with an intuitive **Swing GUI** and a robust **Object-Oriented Architecture**.  
 This project demonstrates a complete game engine, real-time graphical interaction, performance analytics, and automated testing.
@@ -8,8 +7,8 @@ This project demonstrates a complete game engine, real-time graphical interactio
 
 ## 🎮 Overview
 
-**Viking Chess (Hnefatafl)** is a two-player asymmetric strategy game between **Attackers (red)** and **Defenders (blue)**.  
-The defenders must protect their **King (♔)** and guide him safely to one of the board’s corners, while the attackers aim to capture him before he escapes.
+**Viking Chess** is a two-player asymmetric strategy game between **Attackers** and **Defenders**.  
+The defenders must protect their **King** and guide him safely to one of the board’s corners, while the attackers aim to capture him before he escapes.
 
 This project brings the ancient strategy to life with:
 
@@ -20,7 +19,6 @@ This project brings the ancient strategy to life with:
 
 ---
 
-## 🧠 Core Features
 
 ### 🧩 Object-Oriented Design
 The system is built on a modular OOP structure with clear abstractions and separation of concerns:
